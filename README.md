@@ -1,5 +1,7 @@
 # React Todo App Consuming an ASP.NET CORE Minimal API
 
+There are two applications. `VPTodoAPP` is the Minimal ASP.NET Core API Application and `react_client` is the React client application.
+
 ### Guidelines on how to run the application
 
 #### First run the Minimal API application
