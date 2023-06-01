@@ -1,6 +1,6 @@
 # React Todo App Consuming an ASP.NET CORE Minimal API
 
-Guidelines on how to run the application
+### Guidelines on how to run the application
 
 First run the Minimal API application
 - Goto the folder containing the TodoApi Project File and open it's path in command prompt. Ex. `cmd D:\dev\vp_task\VPTodoAPP\TodoApi`
