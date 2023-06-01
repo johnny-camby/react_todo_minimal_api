@@ -26,7 +26,10 @@ Then after the React Client application display below are some images. `http://l
 ![image](https://github.com/johnny-camby/react_todo_minimal_api/assets/129853285/d0390918-9546-41cc-9823-72f9ed885fc0)
 
 ![image](https://github.com/johnny-camby/react_todo_minimal_api/assets/129853285/d05561a7-352f-4e43-aaf6-1b2b479a56ab)
+Use the above icon to mark a task as completed
+![image](https://github.com/johnny-camby/react_todo_minimal_api/assets/129853285/7e6dd4d0-3562-48b1-bda3-792b7348f17c)
 
+Use the below icon to delete a task.
 ![image](https://github.com/johnny-camby/react_todo_minimal_api/assets/129853285/172484ff-1e95-47ad-bca0-6b050dfe3ce5)
 
 
