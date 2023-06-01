@@ -1,1 +1,1 @@
-# react_todo_minimal_api
+# React Todo App Consuming ASP.NET CORE Minimal API
