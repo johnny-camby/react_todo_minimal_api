@@ -6,12 +6,15 @@ First run the Minimal API application
 - Goto the folder containing the TodoApi Project File and open it's path in command prompt. Ex. `cmd D:\dev\vp_task\VPTodoAPP\TodoApi`
 - Then type `dotnet run` to start the API application.
 
+There is a swagger interface for the API `https://localhost:4000/swagger/index.html`
+
+## NB
+Since this is a demo application, upon startup of the `TodoApi project(Minimal API)`, database migrations are run that delete and recreate the database incase it's existing but that process can be changed. 
+
 Second run the React Client Application(Todo App)
 - Goto the folder containing the package.json file and open it's path in command prompt. Ex `cmd D:\dev\vp_task\react_client`
 - Then type `npm install` to install all the npm packages.
 - Then type `npm start` to start the React Todo Application.
-
-There is swagger interface for the API `https://localhost:4000/swagger/index.html`
 
 Then after the React Client application display below are some images. `http://localhost:3000/`
 
