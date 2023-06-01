@@ -1,0 +1,45 @@
+.todo-container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.todo-container .logo {
+  height: 80px;
+  cursor: pointer;
+}
+
+.todo-container .subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: rgb(117, 62, 226);
+}
+
+.todo-container .todo-list {
+  flex: 1;
+  overflow: auto;
+}
+
+.todo-container .todo-list i {
+  margin-right: 10px;
+}
+
+.todo-container .todo-list .todo-item {
+  display: flex;
+  align-items: center;
+}
+
+.todo-container .todo-list .todo-item .todo-item-title {
+  flex-grow: 1;
+}
+
+.todo-container .todo-list .todo-item .todo-item-title.completed-todo {
+  text-decoration: line-through;
+  opacity: .3;
+}
+
+.error-span {
+  color: red;
+}
+

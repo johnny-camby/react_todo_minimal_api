@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{CDDA6FA4-65DF-4F86-89C3-A70C7DA226FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Repository", "Data.Repository\Data.Repository.csproj", "{DB55FF0E-F15E-43B3-B73E-DEA52551FF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{52782E82-BAFB-46A5-B169-CF4163454E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDA6FA4-65DF-4F86-89C3-A70C7DA226FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDA6FA4-65DF-4F86-89C3-A70C7DA226FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDA6FA4-65DF-4F86-89C3-A70C7DA226FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDA6FA4-65DF-4F86-89C3-A70C7DA226FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB55FF0E-F15E-43B3-B73E-DEA52551FF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB55FF0E-F15E-43B3-B73E-DEA52551FF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB55FF0E-F15E-43B3-B73E-DEA52551FF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB55FF0E-F15E-43B3-B73E-DEA52551FF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52782E82-BAFB-46A5-B169-CF4163454E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52782E82-BAFB-46A5-B169-CF4163454E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52782E82-BAFB-46A5-B169-CF4163454E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52782E82-BAFB-46A5-B169-CF4163454E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
